@@ -1,2 +1,2 @@
 # Command-and-Area-Coordinates
-A program to help to easily fill out area
+A program that helps execute a command in an area.
